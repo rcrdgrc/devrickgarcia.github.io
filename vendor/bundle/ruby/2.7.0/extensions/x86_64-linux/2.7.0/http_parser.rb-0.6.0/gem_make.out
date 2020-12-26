@@ -1,5 +1,5 @@
 current directory: /home/ricktx04/my-portfolio-site/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201224-4443-6xg7ub.rb extconf.rb
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201225-23925-9gzxvm.rb extconf.rb
 creating Makefile
 
 current directory: /home/ricktx04/my-portfolio-site/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -13,4 +13,4 @@ linking shared-object ruby_http_parser.so
 
 current directory: /home/ricktx04/my-portfolio-site/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20201224-4443-1lby6fm
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20201225-23925-p4448y
