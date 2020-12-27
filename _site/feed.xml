@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
   <link href="https://github.com/jeromelachaud/freelancer-theme/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" />
-  <updated>2020-12-27T00:28:15-06:00</updated>
+  <updated>2020-12-27T16:05:35-06:00</updated>
   <id>https://github.com/jeromelachaud/freelancer-theme/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2014-07-18T00:00:00-05:00</published>
-      <updated>2014-07-18T00:00:00-05:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-1</id>
+      <title type="html">Wanderland</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Wanderland" />
+      <published>2019-06-27T00:00:00-05:00</published>
+      <updated>2019-06-27T00:00:00-05:00</updated>
+      <id>https://github.com/jeromelachaud/freelancer-theme/wanderland</id>
       <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
 
       
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Full-Stack Devlopment" />
       
 
       
