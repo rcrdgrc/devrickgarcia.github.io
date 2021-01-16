@@ -64,7 +64,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-# baseurl: /
-# url: http://rcrdgrc.github.io
-root: /octo-5
