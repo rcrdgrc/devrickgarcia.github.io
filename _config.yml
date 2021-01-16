@@ -34,13 +34,15 @@ color:
 footer:
   copyright: With love from Austin 
   location: Location
-  social: Github
+  social: GitHub & LinkedIn
   credits: Thank You
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: http://github.com/rcrdgrc
+  - title: linkedin
+    url: https://www.linkedin.com/in/devrickgarcia/
 
 # Postal address (add as many lines as necessary)
 address:
