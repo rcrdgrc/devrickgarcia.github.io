@@ -64,3 +64,6 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+baseurl: /PROJECT
+url: http://rcrdgrc.github.io
