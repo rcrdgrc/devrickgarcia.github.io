@@ -65,5 +65,5 @@ defaults:
     values:
       permalink: ""
 
-baseurl: /devrickgarcia.github.io/
+baseurl: /devrickgarcia.github.io
 url: https://rcrdgrc.github.io
