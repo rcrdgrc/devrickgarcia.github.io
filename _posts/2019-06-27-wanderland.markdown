@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wanderland
-modal-id: #portfolioModal-2
+modal-id: 2
 date: 2019-06-27
 img: wanderland2.png
 alt: image-alt
