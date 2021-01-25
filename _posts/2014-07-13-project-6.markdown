@@ -1,0 +1,13 @@
+---
+layout: default
+title: Rock Paper Scissors
+modal-id: 3
+date: 2019-06-27
+img: paperScissor.PNG
+alt: image-alt
+project-date: Jan 2020
+client: Personal Project
+category: JS, HTML, CSS
+website: https://rcrdgrc.github.io/paperscissorsrock.github.io/
+description: A simple but cool Rock Paper Scissors game.
+---
